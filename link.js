@@ -1,4 +1,4 @@
 function getUrl()
 {
-  return "https://importacioneslumina.com/files/SoundEditor.rar";
+  return "https://importacioneslumina.com/files/Sound_Editor.rar";
 }
